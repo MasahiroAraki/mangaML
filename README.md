@@ -1,15 +1,15 @@
-# �}���K�ł킩��@�B�w�K
+# マンガでわかる機械学習
 
-�r�؉�O���u<a href="https://www.ohmsha.co.jp/book/9784274222443/">�}���K�ł킩��@�B�w�K</a>�v�i�I�[���� 2018�N�j�̃T�|�[�g�y�[�W�ł��B
+荒木雅弘著「<a href="https://www.ohmsha.co.jp/book/9784274222443/">マンガでわかる機械学習</a>」（オーム社 2018年）のサポートページです。
 
 <img src="https://www.ohmsha.co.jp/Portals/0/book/large/978-4-274-22244-3.jpg" width="200pt"/>
 
 
-<a href="https://masahiroaraki.github.io/mangaML/">������</a>��
-�e�͂̓��e���܂Ƃ߂��X���C�h�iMS Powerpoint�t�@�C���j�����J���Ă��܂��B
+<a href="https://masahiroaraki.github.io/mangaML/">こちら</a>で
+各章の内容をまとめたスライド（MS Powerpointファイル）を公開しています。
 
-### ���쌠�\��
+### 著作権表示
 
-�{�T�C�g�Œ񋟂����R���e���c�̒��쌠�́A�r�؉�O�A�n�܂��ȁA�i���j�E�F���e�A�i���j�I�[���Ђɂ���B
+本サイトで提供されるコンテンツの著作権は、荒木雅弘、渡まかな、（株）ウェルテ、（株）オーム社にある。
 
-��c���ړI�Ɍ���A�t�@�C���̃_�E�����[�h�E����E���������R�ɍs���Ă悢�B�{�R���e���c���̂��̂���і{�R���e���c�ɉ��ς����������̂��A�̔����邢�͔z�z���邱�Ƃ��֎~����B
+非営利目的に限り、ファイルのダウンロード・印刷・複製を自由に行ってよい。本コンテンツそのものおよび本コンテンツに改変を加えたものを、販売あるいは配布することを禁止する。
