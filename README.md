@@ -5,7 +5,7 @@
 <img src="https://www.ohmsha.co.jp/Portals/0/book/large/978-4-274-22244-3.jpg" width="200pt"/>
 
 
-<a href="https://masahiroaraki.github.io/mangaML/>こちら<a>で
+<a href="https://masahiroaraki.github.io/mangaML/">こちら</a>で
 各章の内容をまとめたスライド（MS Powerpointファイル）を公開しています。
 
 ### 著作権表示
