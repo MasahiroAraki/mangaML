@@ -6,6 +6,15 @@
 
 各章の内容をまとめたスライド（MS Powerpointファイル）を公開しています。
 
+### 序章
+
+<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%212008&amp;authkey=AIfwhGqMvRkuR_c&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office Online</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+
+
+
+
+
+
 ### 著作権表示
 
 本サイトで提供されるコンテンツの著作権は、荒木雅弘、渡まかな、（株）ウェルテ、（株）オーム社にある。
