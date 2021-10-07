@@ -16,20 +16,20 @@ ISBN 978-978-4274222443
 * 清原は、市が主催するイベントの参加人数をできるだけ正確に予測したくて、研究室の先輩さやかのもとを訪れる
 * さやかは清原に機械学習全般について教える
 
-<iframe src="https://onedrive.live.com/embed?resid=A461CAEA183F1C20%212008&amp;authkey=%21AIfwhGqMvRkuR_c&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px"  frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office Online</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%2114950&amp;authkey=AETvGf4He3CO3UY&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
 ### 1章 回帰ってどうやるの？
 
 * さやかは清原にデータから数値を予測する回帰手法について教える
 
-<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%212009&amp;authkey=ANi2j6k5g4mI8kI&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px"  frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office Online</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%2114952&amp;authkey=ANjTG8HmUOmdntc&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
 ### 2章 識別ってどうやるの？ 
 
 * 清原は、市の医療費削減のために健診結果から糖尿病の発病を予測するサービスを立ち上げたいと考える
 * さやかは識別問題の解法として、ロジスティック識別と決定木について教える
 
-<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%212011&amp;authkey=AM7EnUr5mqKx-zU&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px"  frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office Online</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%2114953&amp;authkey=ADl9u9sO-6CJMsY&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
 ### 3章 結果の評価
 
@@ -37,7 +37,7 @@ ISBN 978-978-4274222443
 * しかし判定精度が悪く、多くの苦情を受ける
 * さやかは機械学習を使ったシステムの正しい性能予測法を教える
 
-<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%212010&amp;authkey=AKDimrTMeNDGgNI&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px"  frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office Online</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%2114951&amp;authkey=AMUwT7OFltxcTMI&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
 ### 4章 ディープラーニング
 
@@ -45,14 +45,14 @@ ISBN 978-978-4274222443
 * キュウリのランキングシステムをディープラーニングを使って作成したという雑誌記事を発見する
 * さやかは清原にディープラーニング全般と、画像認識に有効な畳み込みニューラルネットワークについて教える
 
-<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%212012&amp;authkey=ANFcbR6IeJcXC7A&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px"  frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office Online</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%2114955&amp;authkey=APNes4aH9j3t0kM&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
 ### 5章 アンサンブル学習
 
 * 清原は、ディープラーニングを使って糖尿病診断システムに再チャレンジしようとする
 * さやかは識別精度を向上させる別の方法としてアンサンブル学習を教える
 
-<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%212013&amp;authkey=AKjCSi8VToGKUcE&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px"  frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office Online</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%2114956&amp;authkey=AAG2R7zQCm3evpk&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
 ### 6章 教師なし学習
 
@@ -60,14 +60,14 @@ ISBN 978-978-4274222443
 * 誰にどのような内容を送るかというノウハウは定年間近の課長が持っているが、ルール化できず誰も引き継げない
 * 清原は教師なし学習でこの問題に取り組む
 
-<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%212014&amp;authkey=AKWxiXqDgsx22zY&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px"  frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office Online</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%2114954&amp;authkey=AJAP1XAQ33UTn68&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
 ### エピローグ
 
 * 清原は九条とともに、地方自治体がかかえる問題に対して機械学習を用いたソリューションを提供する会社を立ち上げる
 * そこに大企業をやめたさやかが合流する
 
-<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%212015&amp;authkey=AL9rmyTu2g4J-Zk&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px"  frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office Online</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A461CAEA183F1C20&amp;resid=A461CAEA183F1C20%2114957&amp;authkey=ADDQ-5NODOvUBg0&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">これは、<a target="_blank" href="https://office.com/webapps">Office</a> の機能を利用した、<a target="_blank" href="https://office.com">Microsoft Office</a> の埋め込み型のプレゼンテーションです。</iframe>
 
 ### 著作権表示
 
