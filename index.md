@@ -10,13 +10,13 @@ ISBN 978-978-4274222443
 
 2,200円(税別)
 
-### 序章 機械学習を教えてください！ 
+### 序章 機械学習を教えてください！
 
 * 主人公 清原 は市役所に勤務する新社会人
 * 清原は、市が主催するイベントの参加人数をできるだけ正確に予測したくて、研究室の先輩 さやか のもとを訪れる
 * さやかは清原に機械学習全般について教える
 
-<img src="fig/chap0.gif" width="400pt"/>
+<iframe src="https://www.docswell.com/slide/56YE3W/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
 ### 1章 回帰ってどうやるの？
 
