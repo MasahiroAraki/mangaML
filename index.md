@@ -22,14 +22,14 @@ ISBN 978-978-4274222443
 
 * さやかは清原にデータから数値を予測する回帰手法について教える
 
-<img src="fig/chap1.gif" width="400pt"/>
+<iframe src="https://www.docswell.com/slide/Z98N1V/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
 ### 2章 識別ってどうやるの？ 
 
 * 清原は、市の医療費削減のために健診結果から糖尿病の発病を予測するサービスを立ち上げたいと考える
 * さやかは識別問題の解法として、ロジスティック識別と決定木について教える
 
-<img src="fig/chap2.gif" width="400pt"/>
+<iframe src="https://www.docswell.com/slide/5LL3XG/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
 ### 3章 結果の評価
 
