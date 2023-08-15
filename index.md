@@ -21,13 +21,15 @@ ISBN 978-978-4274222443
 ### 1章 回帰ってどうやるの？
 
 * さやかは清原にデータから数値を予測する回帰手法について教える
+* Jupyter Notebook: [chap1.ipynb](https://github.com/MasahiroAraki/mangaML/blob/master/Python/chap1.ipynb)
 
 <iframe src="https://www.docswell.com/slide/Z98N1V/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
-### 2章 識別ってどうやるの？ 
+### 2章 識別ってどうやるの？
 
 * 清原は、市の医療費削減のために健診結果から糖尿病の発病を予測するサービスを立ち上げたいと考える
 * さやかは識別問題の解法として、ロジスティック識別と決定木について教える
+* Jupyter Notebook: [chap2.ipynb](https://github.com/MasahiroAraki/mangaML/blob/master/Python/chap2.ipynb)
 
 <iframe src="https://www.docswell.com/slide/5LL3XG/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
@@ -44,6 +46,7 @@ ISBN 978-978-4274222443
 * 清原は、ぶどう農家から作物の自動ランキングシステムが作れないかという相談を受ける
 * キュウリのランキングシステムをディープラーニングを使って作成したという雑誌記事を発見する
 * さやかは清原にディープラーニング全般と、画像認識に有効な畳み込みニューラルネットワークについて教える
+* Jupyter Notebook: [chap4.ipynb](https://github.com/MasahiroAraki/mangaML/blob/master/Python/chap4.ipynb)
 
 <iframe src="https://www.docswell.com/slide/KRX839/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
@@ -51,6 +54,7 @@ ISBN 978-978-4274222443
 
 * 清原は、ディープラーニングを使って糖尿病診断システムに再チャレンジしようとする
 * さやかは識別精度を向上させる別の方法としてアンサンブル学習を教える
+* Jupyter Notebook: [chap5.ipynb](https://github.com/MasahiroAraki/mangaML/blob/master/Python/chap5.ipynb)
 
 <iframe src="https://www.docswell.com/slide/Z247L1/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
