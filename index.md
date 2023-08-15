@@ -37,7 +37,7 @@ ISBN 978-978-4274222443
 * しかし判定精度が悪く、多くの苦情を受ける
 * さやかは機械学習を使ったシステムの正しい性能予測法を教える
 
-<img src="fig/chap3.gif" width="400pt"/>
+<iframe src="https://www.docswell.com/slide/5W1RER/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
 ### 4章 ディープラーニング
 
@@ -45,14 +45,14 @@ ISBN 978-978-4274222443
 * キュウリのランキングシステムをディープラーニングを使って作成したという雑誌記事を発見する
 * さやかは清原にディープラーニング全般と、画像認識に有効な畳み込みニューラルネットワークについて教える
 
-<img src="fig/chap4.gif" width="400pt"/>
+<iframe src="https://www.docswell.com/slide/KRX839/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
 ### 5章 アンサンブル学習
 
 * 清原は、ディープラーニングを使って糖尿病診断システムに再チャレンジしようとする
 * さやかは識別精度を向上させる別の方法としてアンサンブル学習を教える
 
-<img src="fig/chap5.gif" width="400pt"/>
+<iframe src="https://www.docswell.com/slide/Z247L1/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
 ### 6章 教師なし学習
 
@@ -60,14 +60,14 @@ ISBN 978-978-4274222443
 * 誰にどのような内容を送るかというノウハウは定年間近の課長が持っているが、ルール化できず誰も引き継げない
 * 清原は教師なし学習でこの問題に取り組む
 
-<img src="fig/chap6.gif" width="400pt"/>
+<iframe src="https://www.docswell.com/slide/K8GNYL/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
 ### エピローグ
 
 * 清原は九条とともに、地方自治体がかかえる問題に対して機械学習を用いたソリューションを提供する会社を立ち上げる
 * そこに大企業をやめたさやかが合流する
 
-<img src="fig/chap-end.gif" width="400pt"/>
+<iframe src="https://www.docswell.com/slide/Z38J6Y/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
 ### 著作権表示
 
