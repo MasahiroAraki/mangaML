@@ -1,4 +1,4 @@
-## 「マンガでわかる機械学習」のあらすじ
+## マンガでわかる機械学習
 
 <a href="https://www.ohmsha.co.jp/book/9784274222443/" target="_blank">
 <img src="https://www.ohmsha.co.jp/Portals/0/book/large/978-4-274-22244-3.jpg" width="200pt"/>
