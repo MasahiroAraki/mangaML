@@ -8,7 +8,7 @@
 * [Pythonコード (Jupyter notebook)](https://github.com/MasahiroAraki/mangaML/tree/master/Python)
 
 
-### 著作権表示
+## 著作権表示
 
 本サイトで提供されるコンテンツの著作権は、荒木雅弘、渡まかな、（株）ウェルテ、（株）オーム社にある。
 
